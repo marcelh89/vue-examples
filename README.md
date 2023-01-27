@@ -1,4 +1,4 @@
 
 
-* *hello-vue (Starter project created with ```npm init vue@latest```) 
-* vue-client-script (Most simple approach to load vue script over cdn without bundling tool)
+* hello-vue (Starter project created with ```npm init vue@latest```) 
+* vuejs-2-the-complete-guide (https://www.udemy.com/course/vuejs-2-the-complete-guide)
